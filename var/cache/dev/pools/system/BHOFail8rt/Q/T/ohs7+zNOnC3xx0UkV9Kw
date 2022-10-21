@@ -1,0 +1,3 @@
+<?php //route_name_2bf895364b34d26435b4434710b85d37
+
+return [PHP_INT_MAX, 'api_vehicles_get_item'];
